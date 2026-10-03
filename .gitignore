@@ -1,0 +1,7 @@
+.ipynb_checkpoints/
+__pycache__/
+cache/
+.DS_Store
+*.pptx
+test.py
+start.sh
